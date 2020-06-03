@@ -13,7 +13,12 @@
 ## <a name="Intro"></a>Intro
 
 <p>This is my 3rd game made by Unity. I wanted to remake my 1st game that was based on zombies, but had all sorts of errors, shortcomings and etc.<br>
-Your goal in this game is to survive as long as you can via eliminating zombies and buying various items from the in-game shop.
+Your goal in this game is to survive as long as you can via eliminating zombies and buying various items from the in-game shop.<br><br>
+For this, you have two weapons:
+  <ul>
+    <li>a pistol</li>
+    <li>an assault rifle with flashlight equiped</li>
+  </ul>
 </p>
 
 
@@ -33,7 +38,12 @@ Your goal in this game is to survive as long as you can via eliminating zombies 
 
 ## <a name="Round System"></a>Round System
 <p>Before every round, the round system generates a random number between increasing min and max ranges.<br>
-That number is going to be total zombies that will spawn for that particular round.</p>
+That number is going to be total zombies that will spawn for that particular round.<br><br>
+E.g for round number 1, you can expect between 5 and 10 zombies.<br>
+    for round number 10, you can expect between 23 and 55 zombies.
+
+
+</p>
 
 <a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph.JPG">
   <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph.JPG" height="300" style="max-width:100%;"></img>
