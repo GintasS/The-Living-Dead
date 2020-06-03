@@ -52,7 +52,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 
 ## <a name="Media"></a>Media
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/hwVJWd6xxGg/0.jpg)](https://www.youtube.com/watch?v=hwVJWd6xxGg&feature=youtu.be "Everything Is AWESOME")
+[![The Living Dead (Demo)](https://img.youtube.com/vi/hwVJWd6xxGg/0.jpg)](https://www.youtube.com/watch?v=hwVJWd6xxGg&feature=youtu.be "The Living Dead (Demo)")
 
 
 <a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG">
