@@ -23,6 +23,8 @@ For this, you have two weapons:
   </ul>
 </p>
 
+You can download a .zip file from here:<a href="https://drive.google.com/file/d/1bxqf4s6_lIR9OIIaPSuih0fsy3PIWCv7/view?usp=sharing">url</a>.
+
 ## <a name="Features"></a>Features
 
 <ul>
