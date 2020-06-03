@@ -6,6 +6,7 @@
 
   - [Intro](#intro)
   - [Features](#features)
+  - [Third Party Assets](#ThirdPartyAssets)
   - [Round System](#RoundSystem)
   - [Economy Overview](#EconomyOverview)
   - [Media](#media)
@@ -22,8 +23,6 @@ For this, you have two weapons:
   </ul>
 </p>
 
-
-
 ## <a name="Features"></a>Features
 
 <ul>
@@ -36,6 +35,67 @@ For this, you have two weapons:
   <li><b>Round System:</b> The Living Dead core mechanic is rounds: every round you get a random amount of zombies and you must kill them to proceed to a next round.</li>
  <li><b>Shop System:</b> You can buy various items, from ammo to utilities that will help you to survive!</li>
 </ul>
+
+## <a name="ThirdPartyAssets"></a>Third Party Assets
+<p>In this game I used third party assets, starting from 3d objects, audio to animations and particle effects</p>
+
+<table style="width:30%">
+  <tr>
+    <th>Asset Type</th>
+    <th>Asset Name</th>
+    <th>Asset Url</th>
+  </tr>
+  <tr>
+    <td>Skybox</td>
+    <td>AllSkyFree</td>
+    <td><a href="https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014" target="_blank">url</a></td>
+  </tr>
+  <tr>
+   <td>3D objects</td>
+    <td>Yughues Free Concrete Barriers</td>
+    <td><a href="https://assetstore.unity.com/packages/3d/props/exterior/yughues-free-concrete-barriers-13248" target="_blank">url</a>      </td>
+  </tr> 
+  <tr>
+   <td>3D objects/animations/particle effects</td>
+    <td>Yughues Free Concrete Barriers</td>
+    <td><a href="https://assetstore.unity.com/packages/3d/props/weapons/animated-hands-with-weapons-pack-132915" target="_blank">url</a>     </td>
+  </tr>   
+  <tr>
+   <td>Particle effects</td>
+    <td>War FX</td>
+    <td><a href="https://assetstore.unity.com/packages/vfx/particles/war-fx-5669" target="_blank">url</a></td>
+  </tr>    
+  <tr>
+   <td>Particle effects</td>
+    <td>Cartoon FX Easy Editor</td>
+    <td>-</td>
+  </tr> 
+  <tr>
+   <td>UI</td>
+    <td>Modern UI Pack</td>
+    <td><a href="https://assetstore.unity.com/packages/tools/gui/modern-ui-pack-150824" target="_blank">url</a></td>
+  </tr>   
+  <tr>
+   <td>3D Environment</td>
+    <td>Modular City Alley Pack</td>
+    <td><a href="https://assetstore.unity.com/packages/3d/environments/urban/modular-city-alley-pack-65890" target="_blank">url</a></td>
+  </tr>  
+  <tr>
+   <td>3D objects/particle effects</td>
+    <td>Modern Guns: Handgun</td>
+    <td><a href="https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821" target="_blank">url</a></td>
+  </tr>    
+   <tr>
+   <td>3D objects/animations</td>
+    <td>Zombie</td>
+    <td><a href="https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232" target="_blank">url</a></td>
+  </tr>     
+  
+  
+  
+  
+</table>
+
 
 ## <a name="RoundSystem"></a>Round System
 <p>Before every round, the round system generates a random number between increasing min and max ranges.<br>
