@@ -85,11 +85,10 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 
 ## <a name="Changelog"></a>Changelog
 
-<h3>CHANGELOG 2/2/2020</h3>
+<h3>CHANGELOG 3/6/2020</h3>
 <ul>
-  <li>Rewritten project from Windows Forms to ASP.NET core web project.</li>
-  <li>Added jquery datatables for mobile support.</li>
-  <li>Deployed website for general internet access.</li>
-  <li>Added some unit tests.</li>
-  <li>Added new images/media.</li>
+  <li>Added the whole project to GitHub.</li>
+  <li>Recorded a demo video and uploaded it to YouTube.</li>
+  <li>Added proper ReadMe.</li>
+  <li>Added images/media.</li>
 </ul>
