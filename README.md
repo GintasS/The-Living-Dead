@@ -6,6 +6,7 @@
 
   - [Intro](#intro)
   - [Features](#features)
+  - [Planned Features](#PlannedFeatures)
   - [Third Party Assets](#ThirdPartyAssets)
   - [Round System](#RoundSystem)
   - [Economy Overview](#EconomyOverview)
@@ -36,6 +37,16 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
   <li><b>Multiple Scenes:</b> game features few scenes, from the main scene, to main menu, pause menu or a game over menu</li>
   <li><b>Round System:</b> The Living Dead core mechanic is rounds: every round you get a random amount of zombies and you must kill them to proceed to a next round.</li>
  <li><b>Shop System:</b> You can buy various items, from ammo to utilities that will help you to survive!</li>
+</ul>
+
+## <a name="PlannedFeatures"></a>Planned Features
+<p>This is a list of features that I planned to implement, but due to various factors, such as time, I could not.</p>
+<ul>
+  <li>Inventory and Loot system</li>
+  <li>Player throwables(grenades, mines and etc)</li>
+  <li>Interactable environment</li>
+  <li>Killstreak/scorestreak system</li>
+  <li>Different types of zombies</li>
 </ul>
 
 ## <a name="ThirdPartyAssets"></a>Third Party Assets
