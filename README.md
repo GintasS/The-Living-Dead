@@ -198,10 +198,10 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
   </tr>   
 </table>
 
-<p>Zombies to kill to buy a certain item</p>
+<p><center><b>Zombie kills needed to buy a specific item</b></center></p>
 
-<a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph3.JPG">
-  <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph3.JPG" height="300" style="max-width:100%;"></img>
+<a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph4.JPG">
+  <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph4.JPG" height="300" style="max-width:100%;"></img>
 </a>
 
 ## <a name="Media"></a>Media
