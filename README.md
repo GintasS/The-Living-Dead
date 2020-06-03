@@ -130,7 +130,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 <a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%201.jpg">
   <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%201.jpg" height="300" style="max-width:100%;"></img>
 </a>
-<blockquote>Looking into something (3/6/2020)</blockquote>
+<blockquote>Looking into a door (3/6/2020)</blockquote>
 <br>
 <a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%202.jpg">
   <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%202.jpg" height="300" style="max-width:100%;"></img>
@@ -153,7 +153,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 <a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%205.jpg">
   <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%205.jpg" height="300" style="max-width:100%;"></img>
 </a>
-<blockquote>Looking with pistol (3/6/2020)</blockquote>
+<blockquote>Pistol (3/6/2020)</blockquote>
 
 ## <a name="Changelog"></a>Changelog
 
