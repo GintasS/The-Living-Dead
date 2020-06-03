@@ -57,70 +57,65 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
   <tr>
     <th>Item Name</th>
     <th>Item Cost</th>
-    <th>Zombies needed to kill(200 per zombie)</th>
     <th>Item Description</th>
   </tr>
   <tr>
     <td>1 Ammo Clip (Assault Rifle)</td>
     <td>500</td>
-    <td>2.5</td>
     <td>Single juicy ammo clip for your assault rifle needs!</td>
   </tr>
   <tr>
     <td>3 Ammo Clips (Assault Rifle)</td>
     <td>1400</td>
-    <td>7</td>
     <td>Three is better than one.Use your assault rifle and kill' them!</td>
   </tr>
   <tr>
     <td>5 Ammo Clips (Assault Rifle)</td>
     <td>2700</td>
-    <td>13.5</td>
     <td>Ultimate ammo box for your assault rifle.</td>
   </tr>
   <tr>
     <td>1 Ammo Clip (Pistol)</td>
     <td>200</td>
-    <td>1</td>
     <td>The old and lonely single ammo clip for your pistol.</td>
   </tr>
   <tr>
     <td>3 Ammo Clips (Pistol)</td>
     <td>800</td>
-    <td>4</td>
     <td>The best bang for the buck!Buy it now white it lasts!</td>
   </tr>
   <tr>
     <td>5 Ammo Clips (Pistol)</td>
     <td>1400</td>
-    <td>7</td>
     <td>You will kill all the zombies with this bag of 5 ammo clips for your pistol.</td>
   </tr>
   <tr>
     <td>Shop Radar</td>
-    <td>0</td>
     <td>0</td>
     <td>Displays a distance to the nearest shop.<b>Yay, you already have it!</b></td>
   </tr>
   <tr>
     <td>Zombie Counter</td>
     <td>10000</td>
-    <td>50</td>
     <td>Allows you to see how many zombies are there in this current round.</td>
   </tr>
   <tr>
     <td>Scrooge McDuck</td>
     <td>14200</td>
-    <td>71</td>
     <td>Increases the money given per every zombie killed.</td>
   </tr>
   <tr>
     <td>Health Regeneration</td>
     <td>18900</td>
-    <td>94.5</td>
     <td>Makes a player nearly invincible(sort of).Regenerates health every X seconds.</td>
   </tr>   
 </table>
+
+<p>Zombies to kill to buy a certain item</p>
+
+<a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph3.JPG">
+  <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph3.JPG" height="300" style="max-width:100%;"></img>
+</a>
 
 ## <a name="Media"></a>Media
 <p><b>YouTube demo:</b></p>
