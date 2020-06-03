@@ -1,2 +1,77 @@
-# The Living Dead
- 
+<div align="center">
+  <h2>The Living Dead</h2>
+</div>
+
+## Jump to...
+
+  - [Intro](#intro)
+  - [Features](#features)
+  - [Round System](#roundsystem)
+  - [Media](#media)
+  - [Changelog](#changelog)
+
+## <a name="Intro"></a>Intro
+
+<p>This is my 3rd game made by Unity. I wanted to remake my 1st game that was based on zombies, but had all sorts of errors, shortcomings and etc.<br>
+Your goal in this game is to survive as long as you can via eliminating zombies and buying various items from the in-game shop.
+</p>
+
+
+
+## <a name="Features"></a>Features
+
+<ul>
+ <li><b>Great graphics:</b> this project was done via HDRP(High Definition Render Pipeline).</li>
+  <li><b>Exploration:</b> this is not a small map by any means, so you could take some time to explore it and feel it!</li>
+  <li><b>Sound:</b> this game has both UI, environment, enemy and player sounds and more!</li>
+  <li><b>Particle effects:</b> this game features some particle systems, like vent smoke, weapon fire or fog.</li>
+  <li><b>Animations:</b> both the player and zombies have animations, e.g attacking, running, reloading a weapon.</li>
+  <li><b>Multiple Scenes:</b> game features few scenes, from the main scene, to main menu, pause menu or a game over menu</li>
+  <li><b>Round System:</b> The Living Dead core mechanic is rounds: every round you get a random amount of zombies and you must kill them to proceed to a next round.</li>
+ <li><b>Shop System:</b> You can buy various items, from ammo to utilities that will help you to survive!</li>
+</ul>
+
+## <a name="Round System"></a>Round System
+<p>Before every round, the round system generates a random number between increasing min and max ranges.<br>
+That number is going to be total zombies that will spawn for that particular round.</p>
+
+## <a name="Media"></a>Media
+
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG" height="300" style="max-width:100%;"></img>
+</a>
+<blockquote>Default view(2/2/2020)</blockquote>
+<br>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image2.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image2.JPG" height="300" style="max-width:100%;"></img>
+</a>
+<blockquote>Picture with movies(2/2/2020)</blockquote>
+
+<br>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image3.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image3.JPG" height="300" style="max-width:100%;"></img>
+</a>
+<blockquote>Picture with movies(2/2/2020)</blockquote>
+
+<br>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image4.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image4.JPG" height="300" style="max-width:100%;"></img>
+</a>
+<blockquote>Picture with movies(2/2/2020)</blockquote>
+
+<br>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/jTmOUFCuvT.gif">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/jTmOUFCuvT.gif" height="300" style="max-width:100%;"></img>
+</a>
+<blockquote>Presentation(2/2/2020)</blockquote>
+
+## <a name="Changelog"></a>Changelog
+
+<h3>CHANGELOG 2/2/2020</h3>
+<ul>
+  <li>Rewritten project from Windows Forms to ASP.NET core web project.</li>
+  <li>Added jquery datatables for mobile support.</li>
+  <li>Deployed website for general internet access.</li>
+  <li>Added some unit tests.</li>
+  <li>Added new images/media.</li>
+</ul>
