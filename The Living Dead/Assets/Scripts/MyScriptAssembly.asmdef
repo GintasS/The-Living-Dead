@@ -1,0 +1,16 @@
+{
+    "name": "MyScriptAssembly",
+    "references": [
+        "StateMachine",
+        "AstarPathfindingProject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
