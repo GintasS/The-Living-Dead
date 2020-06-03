@@ -99,8 +99,27 @@ For this, you have two weapons:
    <td>State Machine</td>
     <td>Unity 3D Finite State Machine</td>
     <td><a href="https://github.com/thefuntastic/Unity3d-Finite-State-Machine" target="_blank">url</a></td>
+  </tr>
+ <tr>
+   <td>Asset Pack</td>
+    <td>Standard assets for Unity 2017</td>
+    <td><a href="https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2017-3-32351" target="_blank">url</a></td>
+  </tr>   
+ <tr>
+   <td>Font</td>
+    <td>KG Blank Space</td>
+    <td><a href="https://www.dafont.com/kg-blank-space.font" target="_blank">url</a></td>
+ </tr>   
+ <tr>
+   <td>UI icons</td>
+    <td>Various icons for the game</td>
+    <td>UI icon sources.txt</td>
+ </tr>    
+ <tr>
+   <td>Audio</td>
+    <td>Various audio files</td>
+    <td>Audio sources.txt</td>
   </tr>     
-  
   
 </table>
 
