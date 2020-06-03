@@ -125,7 +125,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 ## <a name="Media"></a>Media
 <p><b>YouTube demo:</b></p>
 
-[![The Living Dead (Demo)](https://img.youtube.com/vi/hwVJWd6xxGg/0.jpg)](https://www.youtube.com/watch?v=hwVJWd6xxGg&feature=youtu.be "The Living Dead (Demo)")
+[![The Living Dead (Demo)](https://img.youtube.com/vi/U5Mt9gAZAMo/0.jpg)](https://www.youtube.com/watch?v=U5Mt9gAZAMo&feature=youtu.be "The Living Dead (Demo)")
 
 <a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%201.jpg">
   <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Game%201.jpg" height="300" style="max-width:100%;"></img>
