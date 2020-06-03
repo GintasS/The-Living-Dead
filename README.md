@@ -35,6 +35,11 @@ Your goal in this game is to survive as long as you can via eliminating zombies 
 <p>Before every round, the round system generates a random number between increasing min and max ranges.<br>
 That number is going to be total zombies that will spawn for that particular round.</p>
 
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG" height="300" style="max-width:100%;"></img>
+</a>
+
+
 ## <a name="Media"></a>Media
 
 <a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG">
