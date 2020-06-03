@@ -55,33 +55,33 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 [![The Living Dead (Demo)](https://img.youtube.com/vi/hwVJWd6xxGg/0.jpg)](https://www.youtube.com/watch?v=hwVJWd6xxGg&feature=youtu.be "The Living Dead (Demo)")
 
 
-<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG">
-  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image1.JPG" height="300" style="max-width:100%;"></img>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 1.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 1.JPG" height="300" style="max-width:100%;"></img>
 </a>
-<blockquote>Default view(2/2/2020)</blockquote>
+<blockquote>Looking into something (3/6/2020)</blockquote>
 <br>
-<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image2.JPG">
-  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image2.JPG" height="300" style="max-width:100%;"></img>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 2.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 2.JPG" height="300" style="max-width:100%;"></img>
 </a>
-<blockquote>Picture with movies(2/2/2020)</blockquote>
+<blockquote>Spotted a zombie(3/6/2020)</blockquote>
 
 <br>
-<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image3.JPG">
-  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image3.JPG" height="300" style="max-width:100%;"></img>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 3.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 3.JPG" height="300" style="max-width:100%;"></img>
 </a>
-<blockquote>Picture with movies(2/2/2020)</blockquote>
+<blockquote>Shooting a zombie (3/6/2020)</blockquote>
 
 <br>
-<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/image4.JPG">
-  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/image4.JPG" height="300" style="max-width:100%;"></img>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 4.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 4.JPG" height="300" style="max-width:100%;"></img>
 </a>
-<blockquote>Picture with movies(2/2/2020)</blockquote>
+<blockquote>Shope Menu (3/6/2020)</blockquote>
 
 <br>
-<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/images/jTmOUFCuvT.gif">
-  <img src="https://github.com/GintasS/MovieRatings/blob/master/images/jTmOUFCuvT.gif" height="300" style="max-width:100%;"></img>
+<a target="_blank" href="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 5.JPG">
+  <img src="https://github.com/GintasS/MovieRatings/blob/master/Images/Game 5.JPG" height="300" style="max-width:100%;"></img>
 </a>
-<blockquote>Presentation(2/2/2020)</blockquote>
+<blockquote>Looking with pistol (3/6/2020)</blockquote>
 
 ## <a name="Changelog"></a>Changelog
 
