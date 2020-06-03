@@ -50,7 +50,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 
 ## <a name="EconomyOverview"></a>Economy Overview
 <p>This game has currency to buy items at the shop.<br>
-  You gain 200 credits for every zombie killed. Later you can increase it via purchasing a utility item.<br>
+  You gain 200 credits for every zombie killed. Later you can increase it via purchasing an utility item.<br>
  
  <p>Available items at the shop:</p>
  <table style="width:30%">
