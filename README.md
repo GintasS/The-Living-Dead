@@ -85,13 +85,21 @@ For this, you have two weapons:
     <td>Modern Guns: Handgun</td>
     <td><a href="https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821" target="_blank">url</a></td>
   </tr>    
-   <tr>
+  <tr>
    <td>3D objects/animations</td>
     <td>Zombie</td>
     <td><a href="https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232" target="_blank">url</a></td>
   </tr>     
-  
-  
+ <tr>
+   <td>Pathfinding</td>
+    <td>A* Pathfinding</td>
+    <td><a href="https://arongranberg.com/astar/" target="_blank">url</a></td>
+  </tr>   
+ <tr>
+   <td>State Machine</td>
+    <td>Unity 3D Finite State Machine</td>
+    <td><a href="https://github.com/thefuntastic/Unity3d-Finite-State-Machine" target="_blank">url</a></td>
+  </tr>     
   
   
 </table>
