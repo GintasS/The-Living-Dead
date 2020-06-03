@@ -44,8 +44,8 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
     for round number 10, you can expect between 23 and 55 zombies.
 </p>
 
-<a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph.JPG">
-  <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph.JPG" height="300" style="max-width:100%;"></img>
+<a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph2.JPG">
+  <img src="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph2.JPG" height="300" style="max-width:100%;"></img>
 </a>
 
 ## <a name="EconomyOverview"></a>Economy Overview
