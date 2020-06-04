@@ -37,6 +37,7 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
   <li><b>Multiple Scenes:</b> game features few scenes, from the main scene, to main menu, pause menu or a game over menu</li>
   <li><b>Round System:</b> The Living Dead core mechanic is rounds: every round you get a random amount of zombies and you must kill them to proceed to a next round.</li>
  <li><b>Shop System:</b> You can buy various items, from ammo to utilities that will help you to survive!</li>
+  <li><b>Stuck Zombie Prevention system at spawn:</b> this prevents a zombie from being stuck right at his spawn point, so a player would not wander around looking for it or restart the game.</li>
 </ul>
 
 ## <a name="PlannedFeatures"></a>Planned Features
