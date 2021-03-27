@@ -20,7 +20,7 @@ Your goal is to survive by shooting zombies and buying various items from the in
 For this, you have two weapons:
   <ul>
     <li>a pistol</li>
-    <li>an assault rifle with flashlight equiped</li>
+    <li>an assault rifle with flashlight equipped</li>
   </ul>
 </p>
 
@@ -33,10 +33,10 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
   <li><b>Exploration:</b> this is not a small map by any means, so you could take some time to explore it and feel it!</li>
   <li><b>Sound:</b> this game has both UI, environment, enemy and player sounds and more!</li>
   <li><b>Particle effects:</b> this game features some particle systems, like vent smoke, weapon fire or fog.</li>
-  <li><b>Animations:</b> both the player and zombies have animations, e.g attacking, running, reloading a weapon.</li>
-  <li><b>Multiple Scenes:</b> game features few scenes, from the main scene, to main menu, pause menu or a game over menu</li>
-  <li><b>Round System:</b> The Living Dead core mechanic is rounds: every round you get a random amount of zombies and you must kill them to proceed to a next round.</li>
- <li><b>Shop System:</b> You can buy various items, from ammo to utilities that will help you to survive!</li>
+  <li><b>Animations:</b> both the player and zombies have animations, e.g. attacking, running, reloading a weapon.</li>
+  <li><b>Multiple Scenes:</b> game features few scenes, from the main scene, to the main menu, pause menu or a game over menu.</li>
+  <li><b>Round System:</b> The Living Dead core mechanic is rounds: every round you get a random number of zombies and you must kill them to proceed to a next round.</li>
+  <li><b>Shop System:</b> You can buy various items, from ammo to utilities that will help you to survive!</li>
   <li><b>Stuck Zombie Prevention system at spawn:</b> this prevents a zombie from being stuck right at his spawn point, so a player would not wander around looking for it or restart the game.</li>
 </ul>
 
@@ -44,7 +44,7 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
 <p>This is a list of features that I planned to implement, but due to various factors, such as time, I could not.</p>
 <ul>
   <li>Inventory and Loot system</li>
-  <li>Player throwables(grenades, mines and etc)</li>
+  <li>Player throwables(grenades, mines and etc.)</li>
   <li>Interactable environment</li>
   <li>Killstreak/scorestreak system</li>
   <li>Different types of zombies</li>
@@ -142,7 +142,7 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
 <p>Before every round, the round system generates a random number between increasing min and max ranges.<br>
 That number is going to be total zombies that will spawn for that particular round.<br><br>
 E.g for round number 1, you can expect between 5 and 10 zombies.<br>
-    for round number 10, you can expect between 23 and 55 zombies.
+    For round number 10, you can expect between 23 and 55 zombies.
 </p>
 
 <a target="_blank" href="https://github.com/GintasS/The-Living-Dead/blob/master/Images/Graph2.JPG">
@@ -198,7 +198,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
   <tr>
     <td>Zombie Counter</td>
     <td>10000</td>
-    <td>Allows you to see how many zombies are there in this current round.</td>
+    <td>Allows you to see how many zombies are currently alive in this current round.</td>
   </tr>
   <tr>
     <td>Scrooge McDuck</td>
@@ -208,7 +208,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
   <tr>
     <td>Health Regeneration</td>
     <td>18900</td>
-    <td>Makes a player nearly invincible(sort of).Regenerates health every X seconds.</td>
+    <td>Makes a player nearly invincible(sort of). Regenerate health every X seconds.</td>
   </tr>   
 </table>
 
