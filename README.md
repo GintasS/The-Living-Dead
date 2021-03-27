@@ -7,7 +7,7 @@
   - [Intro](#intro)
   - [Features](#features)
   - [Planned Features](#PlannedFeatures)
-  - [Third-Party Assets](#ThirdPartyAssets)
+  - [Third-party Assets](#ThirdPartyAssets)
   - [Round System](#RoundSystem)
   - [Economy Overview](#EconomyOverview)
   - [Media](#media)
@@ -37,7 +37,7 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
   <li><b>Multiple Scenes:</b> game features few scenes, from the main scene, to the main menu, pause menu or a game over menu.</li>
   <li><b>Round System:</b> The Living Dead core mechanic is rounds: every round you get a random number of zombies and you must kill them to proceed to a next round.</li>
   <li><b>Shop System:</b> You can buy various items, from ammo to utilities that will help you to survive!</li>
-  <li><b>Zombie Prevention System:</b> this prevents a zombie from being stuck right at his spawn point, so a player would not wander around looking for it or restart the game.</li>
+  <li><b>Zombie Stuck System:</b> this prevents a zombie from being stuck right at his spawn point, so a player would not wander around looking for it or restart the game.</li>
 </ul>
 
 ## <a name="PlannedFeatures"></a>Planned Features
@@ -50,7 +50,7 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
   <li>Different types of zombies</li>
 </ul>
 
-## <a name="ThirdPartyAssets"></a>Third-Party Assets
+## <a name="ThirdPartyAssets"></a>Third-party Assets
 <p>In this game I used third-party assets, starting from 3d objects, audio to animations and particle effects.</p>
 
 <table style="width:30%">
@@ -151,9 +151,9 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
 
 ## <a name="EconomyOverview"></a>Economy Overview
 <p>This game has currency to buy items at the shop.<br>
-  You gain 200 credits for every zombie killed. Later you can increase it via purchasing an utility item.<br>
+  You gain 200 credits for every zombie killed. Later you can increase this amount by purchasing a special utility item.<br>
  
- <p>Available items at the shop:</p>
+ <p>Available items:</p>
  <table style="width:30%">
   <tr>
     <th>Item Name</th>
@@ -168,7 +168,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
   <tr>
     <td>3 Ammo Clips (Assault Rifle)</td>
     <td>1400</td>
-    <td>Three is better than one.Use your assault rifle and kill' them!</td>
+    <td>Three is better than one. Use your assault rifle and kill' them!</td>
   </tr>
   <tr>
     <td>5 Ammo Clips (Assault Rifle)</td>
@@ -183,7 +183,7 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
   <tr>
     <td>3 Ammo Clips (Pistol)</td>
     <td>800</td>
-    <td>The best bang for the buck!Buy it now white it lasts!</td>
+    <td>The best bang for the buck! Buy it now white it lasts!</td>
   </tr>
   <tr>
     <td>5 Ammo Clips (Pistol)</td>
@@ -191,14 +191,14 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
     <td>You will kill all the zombies with this bag of 5 ammo clips for your pistol.</td>
   </tr>
   <tr>
-    <td>Shop Radar</td>
-    <td>0</td>
-    <td>Displays a distance to the nearest shop.<b>Yay, you already have it!</b></td>
+    <td><b>Shop Radar</b></td>
+    <td><b>0</b></td>
+    <td>Displays a distance to the nearest shop. <b>Yay, you already have it!</b></td>
   </tr>
   <tr>
     <td>Zombie Counter</td>
     <td>10000</td>
-    <td>Allows you to see how many zombies are currently alive in this current round.</td>
+    <td>Allows you to see how many zombies are currently alive in this round.</td>
   </tr>
   <tr>
     <td>Scrooge McDuck</td>
