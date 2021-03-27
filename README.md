@@ -7,7 +7,7 @@
   - [Intro](#intro)
   - [Features](#features)
   - [Planned Features](#PlannedFeatures)
-  - [Third Party Assets](#ThirdPartyAssets)
+  - [Third-Party Assets](#ThirdPartyAssets)
   - [Round System](#RoundSystem)
   - [Economy Overview](#EconomyOverview)
   - [Media](#media)
@@ -16,7 +16,7 @@
 ## <a name="Intro"></a>Intro
 
 <p>This is my 3rd game made by Unity. I wanted to remake my 1st game that was based on zombies, but had all sorts of errors, shortcomings and etc.<br>
-Your goal in this game is to survive as long as you can via eliminating zombies and buying various items from the in-game shop.<br><br>
+Your goal is to survive by shooting zombies and buying various items from the in-game shops.<br><br>
 For this, you have two weapons:
   <ul>
     <li>a pistol</li>
@@ -50,8 +50,8 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
   <li>Different types of zombies</li>
 </ul>
 
-## <a name="ThirdPartyAssets"></a>Third Party Assets
-<p>In this game I used third party assets, starting from 3d objects, audio to animations and particle effects</p>
+## <a name="ThirdPartyAssets"></a>Third-Party Assets
+<p>In this game I used third-party assets, starting from 3d objects, audio to animations and particle effects.</p>
 
 <table style="width:30%">
   <tr>
