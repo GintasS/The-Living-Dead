@@ -141,7 +141,7 @@ You can download a .zip file from here: <a href="https://drive.google.com/file/d
 ## <a name="RoundSystem"></a>Round System
 <p>Before every round, the round system generates a random number between increasing min and max ranges.<br>
 That number is going to be total zombies that will spawn for that particular round.<br><br>
-E.g for round number 1, you can expect between 5 and 10 zombies.<br>
+E.g. for round number 1, you can expect between 5 and 10 zombies.<br>
     For round number 10, you can expect between 23 and 55 zombies.
 </p>
 
