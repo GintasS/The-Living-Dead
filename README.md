@@ -260,3 +260,8 @@ E.g for round number 1, you can expect between 5 and 10 zombies.<br>
   <li>Added proper ReadMe.</li>
   <li>Added images/media.</li>
 </ul>
+
+<h3>CHANGELOG 27/3/2021</h3>
+<ul>
+  <li>Fixed grammar mistakes.</li>
+</ul>
